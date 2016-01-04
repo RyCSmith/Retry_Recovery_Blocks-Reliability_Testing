@@ -1,4 +1,4 @@
-# Retry_Recovery_Blocks-Reliability_Testing
+# Retry and Recovery Blocks - Reliability Testing
 
 Overview: Uses Retry Block, Recovery Block and Parallel Recovery Block to improve the reliability of a code sample attempting to solve an NP-Complete problem.
 
